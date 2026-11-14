@@ -1,0 +1,26 @@
+git init
+initiate a local git repo
+
+git add . 
+
+git commit -m ""
+
+git branch feature
+
+git checkout feature/ git checkout main 
+
+
+git merge --no-ff feature -m " " 
+
+git log --oneline --graph --all 
+
+
+git revert HEAD --no-edit
+
+
+git remote add origin ... 
+
+git push -u origin --all 
+
+
+git push 
